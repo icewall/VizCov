@@ -1,0 +1,8 @@
+{
+	"path_black_list": ["C:\\windows"],
+	"path_white_list": [],
+	"module_black_list" : [],
+	"module_white_list":  [],
+	"time_out" : 99999999,
+	"out_dir": "C:\\some_magic_dir"
+}
